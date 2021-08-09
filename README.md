@@ -7,6 +7,7 @@ In the Terminal run the following commands:
 2. `php artisan ui react`
 3. `npm install`
 4. `npm run dev`
+5. `php artisan serve`
 
 ## Setting Enviroment:
 In the resources/views/welcome.blade.php write the following code:
